@@ -6,6 +6,9 @@ Welcome and thank you for checking out _G-Boards_. For more information on how t
 
 _Thank you and happy building_ - Gordon Lo
 
+# Last Update
+December 24, 2018 - Gordon Lo
+
 # Future Updates
 * Tail-light V.1 - Coming soon!
 * Head-light V.1 - Coming soon!
