@@ -10,7 +10,8 @@ _Thank you and happy building_ - Gordon Lo
 December 24, 2018 - Gordon Lo
 
 # Future Updates
-* Tail-light V.1 - Coming soon!
-* Head-light V.1 - Coming soon!
-* G-Boards V.2 - Future???
+* Nose-Guard V.1 - Coming soon !
+* Tail-light V.1 - Coming soon !
+* Head-light V.1 - Coming soon !
+* G-Boards V.2 - Future ???
 
