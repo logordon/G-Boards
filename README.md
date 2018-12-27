@@ -16,3 +16,5 @@ December 26, 2018 - Gordon Lo
 * G-Boards V.2 - Future ???
 * Battery BMS charging system - Future ???
 
+# Special Thanks
+Special thanks to Peter Abdu for his extensive knowledge on batteries and ESCs.
